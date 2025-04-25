@@ -15,10 +15,10 @@ Welcome to Streamlytics, a Streamlit-powered interactive dashboard that visualiz
 👤 About Me & Contact – Get to know the creator!
 
 🚀 How to Run
-Clone this repo
-Install dependencies
-Add the dataset
-Run the app
+- Clone this repo
+- Install dependencies
+- Add the dataset
+- Run the app
 
 📁 File Structure
 bash
@@ -35,13 +35,13 @@ Edit
 Dataset: Netflix Movies and TV Shows on Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
 
 🙋‍♂️ About Me
-Hi! Im Tiara Delfira, An Informatics Engineering and an enthusiastic entry-level Data Scientist with a passion for learning and growth. Proficient in applying data analysis and modeling concepts using Python and tools like pandas. Experienced in various projects involving data mapping, research, data management, and data analysis in the healthcare sector. Ready to embrace new challenges in extracting valuable insights from data to optimize business outcomes.
+-Hi! Im Tiara Delfira, An Informatics Engineering and an enthusiastic entry-level Data Scientist with a passion for learning and growth. Proficient in applying data analysis and modeling concepts using Python and tools like pandas. Experienced in various projects involving data mapping, research, data management, and data analysis in the healthcare sector. Ready to embrace new challenges in extracting valuable insights from data to optimize business outcomes.-
 
 📫 Contact
-Email: delfiratiara7@gmail.com
+- Email: delfiratiara7@gmail.com
 
-GitHub: https://github.com/tiaradelf
+- GitHub: https://github.com/tiaradelf
 
-LinkedIn: https://www.linkedin.com/in/tiara-delfira/
+- LinkedIn: https://www.linkedin.com/in/tiara-delfira/
 
 Thankyou, Hope it is useful!!
