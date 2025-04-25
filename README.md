@@ -44,4 +44,6 @@ Dataset: Netflix Movies and TV Shows on Kaggle (https://www.kaggle.com/datasets/
 
 - LinkedIn: https://www.linkedin.com/in/tiara-delfira/
 
+🌐 If you’d like to give it a try, you can visit the following page : https://netflix-movie-review.streamlit.app/
+
 Thankyou, Hope it is useful!!
