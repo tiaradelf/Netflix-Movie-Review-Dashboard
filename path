@@ -1,0 +1,11 @@
+paths = {
+    "/mnt/data/main.py": main_py,
+    "/mnt/data/about_me.py": about_me_py,
+    "/mnt/data/contact.py": contact_py
+}
+
+for path, content in paths.items():
+    with open(path, "w") as f:
+        f.write(content)
+
+paths.keys()
