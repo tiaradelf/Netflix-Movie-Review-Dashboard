@@ -11,7 +11,7 @@ def tampilkan_contact():
 
     # GitHub
     st.markdown(
-        "[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/tiaradelf/Hyperparameter_Tuning_in_Python)"
+        "[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/tiaradelf)"
     )
 
     # Email
